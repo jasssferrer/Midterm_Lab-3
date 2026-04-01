@@ -1,0 +1,43 @@
+html{
+    background-color: #81A6C6;
+}
+
+h1{
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 100px;
+    font-weight: 250;
+    font-style: normal;
+    text-align: center;
+}
+
+.box1{
+    background-color: #FE9EC7;
+    border: solid black;
+    border-width: 20px 20px 20px 20px;
+    text-align: justify;
+    padding: 50px;
+    width: 15%;
+
+}
+
+.box2{
+    background-color: #D2C4B4;
+    border: solid black;
+    margin-left: 30%;
+    border-width: 20px 10px 20px 10px;
+    text-align: justify;
+    padding: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.box3{
+    background-color: #F9F6C4;
+    border: solid black;
+    border-width: 10px 10px 10px 10px;
+    text-align: justify;
+    padding: 50px;
+    width: 200px;
+    height: 200px;
+    
+}
